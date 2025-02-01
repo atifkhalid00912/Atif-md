@@ -1,6 +1,6 @@
 {
-  "name": "MUZAMIL-PRINCE-MD",
-  "description": " "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴜᴢᴀᴍɪʟ ᴘʀɪɴᴄᴇ",
+  "name": "A.k-Devil-MD",
+  "description": " "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ A.K Devil",
   "logo": "https://i.imgur.com/VSVRZsX.jpeg",
   "keywords": ["bot"],
   "success_url": "/",
@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "SHABAN-SOBX-MD~Rp5VALjB#G9aUFjt5_G3QdMvpruzfJs_Yq4I98Ksuu_N6_3i6Y8c.",
       "required": true,
       "value": ""
     },  
@@ -40,7 +40,7 @@
     "AUTO_VOICE": {
       "description": "Make it true if you want bot auto voice.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_REPLY": {
@@ -76,7 +76,7 @@
     "FAKE_RECORDING": {
       "description": "Make it true if you want bot fake record.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
 
     "AUTO_REACT": {
@@ -95,7 +95,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦sʜᴀʙᴀɴ-sᴏʙx-ᴍᴅ✦"
+      "value": "✦A.K-Devil.ᴍᴅ✦"
     }, 
 
     "HEART_REACT": {
@@ -112,17 +112,17 @@
     "CAPTION": {
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "POWERED BY MUZAMIL PRINCE"
+      "value": "POWERED By The Devil"
     }, 
     "STATUS_REPLY": {
       "description": "enter your caption if you want to show on status reply.",
       "required": true,
-      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү ᴍᴜᴢᴀᴍɪʟ-ᴘʀɪɴᴄᴇ-мᴅ"
+      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү mE"
     },
     "AUTO_REPLY_STATUS": {
       "description": "you can true or false it.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }
 
 
